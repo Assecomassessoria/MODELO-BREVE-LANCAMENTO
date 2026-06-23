@@ -1,0 +1,6 @@
+{
+  "name": "Breve Lançamento Torres",
+  "description": "Um teaser premium com três torres cobertas por lona azul balançando ao vento para um breve lançamento imobiliário de luxo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
